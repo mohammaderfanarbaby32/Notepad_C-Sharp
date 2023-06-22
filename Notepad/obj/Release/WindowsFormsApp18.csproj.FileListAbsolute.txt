@@ -1,0 +1,15 @@
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\bin\Release\WindowsFormsApp18.exe.config
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\bin\Release\WindowsFormsApp18.exe
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\bin\Release\WindowsFormsApp18.pdb
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.csproj.AssemblyReference.cache
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.csproj.SuggestedBindingRedirects.cache
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\Form1.Form1.resources
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.Form2.resources
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.Form3.resources
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.Form4.resources
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.Form5.resources
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.Properties.Resources.resources
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.csproj.GenerateResource.cache
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.csproj.CoreCompileInputs.cache
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.exe
+E:\New folder (2)\New folder (2)\WindowsFormsApp18\WindowsFormsApp18\obj\Release\WindowsFormsApp18.pdb
